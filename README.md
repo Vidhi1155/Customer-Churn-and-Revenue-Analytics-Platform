@@ -32,7 +32,7 @@ This project solves exactly that — end to end, from raw data to actionable bus
 ## Project Structure
 
 ```
-ecommerce-analytics/
+E-commerce-Analytics/
 │
 ├── data/
 │   ├── online_retail.csv              ← raw synthetic data
@@ -42,24 +42,21 @@ ecommerce-analytics/
 │   └── product_catalog.csv            ← 93 SKUs reference
 │
 ├── sql_queries_output/                ← 10 SQL query results (CSV + Excel)
-├── step4_eda_plots/                   ← 12 EDA charts
+├── eda_plots/                         ← 12 EDA charts
 ├── hypothesis_testing_results/        ← 6 statistical test results
 ├── nlp_results/                       ← sentiment scores + LDA topics
 ├── nlp_plots/                         ← word clouds + sentiment charts
 ├── ml_results/                        ← segmentation + churn + revenue
 ├── ml_plots/                          ← 5 ML visualisations
+├── Power BI Dashboard/                ← 3 dashboards
 │
-├── generate_data.py                   ← Step 1: synthetic data generator
-├── step2_data_cleaning.py             ← Step 2: cleaning & preprocessing
-├── step3_mysql.py                     ← Step 3: MySQL schema + 10 queries
-├── step4_eda.py                       ← Step 4: EDA & visualisations
-├── step5_hypothesis_testing.py        ← Step 5: 6 statistical tests
-├── step6_nlp.py                       ← Step 6: sentiment + topic modelling
-├── step7_ml_models.py                 ← Step 7: K-Means + XGBoost models
-├── step8_powerbi_prep.py              ← Step 8: Power BI data prep
-├── powerbi_data.xlsx                  ← 9-sheet Excel for Power BI
-├── dax_measures.txt                   ← 11 DAX formulas (copy-paste ready)
-└── presentation.pptx                  ← 6-slide consulting deck
+├── 01_Generate_Data.py             ← Step 1: synthetic data generator
+├── 02_Data_Cleaning.py             ← Step 2: cleaning & preprocessing
+├── 03_mysql.py                     ← Step 3: MySQL schema + 10 queries
+├── 04_EDA_and_Visualizations.py    ← Step 4: EDA & visualisations
+├── 05_hypothesis_testing.py        ← Step 5: 6 statistical tests
+├── 06_NLP.py                       ← Step 6: sentiment + topic modelling
+└── 07_ML_Models.py                 ← Step 7: K-Means + XGBoost models
 ```
 
 ---
