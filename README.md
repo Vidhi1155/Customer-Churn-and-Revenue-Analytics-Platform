@@ -11,7 +11,7 @@ Imagine you are a data analyst at a consulting firm. A UK-based e-commerce compa
 
 > *"We have 2 years of transaction data, 50,000 customer reviews, and no idea who our best customers are, who is about to leave, or why certain products keep getting returned."*
 
-This project solves exactly that — end to end, from raw data to actionable business recommendations — the same way a ZS Associates or McKinsey Analytics team would approach it.
+This project solves exactly that — end to end, from raw data to actionable business recommendations.
 
 ---
 
