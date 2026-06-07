@@ -434,7 +434,7 @@ Visuals: Top 15 products · Category heatmap · Sentiment by category · Cancell
 
 ## Step 9 — Business Recommendations
 
-Structured using the **Situation → Complication → Recommendation** framework (McKinsey/ZS consulting style):
+Structured using the **Situation → Complication → Recommendation** framework:
 
 ### Recommendation 1 — Launch churn prevention campaigns
 **Situation:** 53.6% of customers are inactive. XGBoost identified 843 high-risk customers.  
@@ -468,7 +468,6 @@ Structured using the **Situation → Complication → Recommendation** framework
 | **NLP** | NLTK, VADER Sentiment, Scikit-learn LDA |
 | **Machine Learning** | Scikit-learn (K-Means, StandardScaler), XGBoost |
 | **Dashboard** | Power BI Desktop (free), DAX |
-| **Presentation** | PowerPoint (pptxgenjs) |
 
 ---
 
@@ -483,14 +482,13 @@ pip install mysql-connector-python openpyxl pptxgenjs
 
 ### Run in order
 ```bash
-python generate_data.py           # Step 1 — generate dataset
-python step2_data_cleaning.py     # Step 2 — clean data
-python step3_mysql.py             # Step 3 — MySQL (set credentials first)
-python step4_eda.py               # Step 4 — EDA charts
-python step5_hypothesis_testing.py # Step 5 — hypothesis tests
-python step6_nlp.py               # Step 6 — NLP analysis
-python step7_ml_models.py         # Step 7 — ML models
-python step8_powerbi_prep.py      # Step 8 — Power BI data prep
+python 01_Generate_Data.py                    # Step 1 — generate dataset
+python 02_Data_Cleaning.py                    # Step 2 — clean data
+python 03_mysql.py                            # Step 3 — MySQL (set credentials first)
+python 04_EDA_and_Visualizations.py           # Step 4 — EDA charts
+python 05_hypothesis_testing.py               # Step 5 — hypothesis tests
+python 06_NLP.py                              # Step 6 — NLP analysis
+python 07_ML_Models.py                        # Step 7 — ML models
 ```
 
 ### MySQL setup (Step 3 only)
@@ -504,29 +502,6 @@ Then create the database once in MySQL Workbench:
 ```sql
 CREATE DATABASE ecommerce_analytics;
 ```
-
----
-
-## Interview Talking Points
-
-**On the dataset:**
-> *"I synthetically generated the dataset modeling it on UCI Online Retail II — same column structure, same business patterns, but with realistic distributions: Pareto customer weights, seasonal spikes, deliberate messiness. Showing data simulation skills is itself a differentiator."*
-
-**On SQL:**
-> *"I built a star schema in MySQL and wrote 10 business queries covering every major window function — RANK, DENSE_RANK, LAG, LEAD, FIRST_VALUE, NTILE, rolling averages, cumulative sums, and 3-level CTE chains."*
-
-**On hypothesis testing:**
-> *"The 4 non-significant results are as important as the 2 significant ones. The Q4 A/B test showed a £33K/day lift with Cohen's d of 1.74 — that's not just statistically significant, it's a large practical effect that directly justifies Q4 inventory investment."*
-
-**On the churn model:**
-> *"The model achieved near-perfect accuracy — but I should be transparent: Recency both defines churn and is a feature, which is a form of data leakage. In production I'd use lagged features. Being aware of this is what separates a thoughtful analyst from someone who just runs code."*
-
-**On NLP:**
-> *"Most candidates at my level skip NLP entirely. I added VADER sentiment on 50,000 reviews and LDA topic modelling to find the 5 main themes — delivery, quality, gifting, size accuracy, and value. This directly identified Garden and Kitchen as the categories needing quality intervention."*
-
-**On Power BI:**
-> *"The dashboard has 3 pages connected by cross-filtering slicers. Every visual title is a business question, not a label. A ZS client would pick this up and navigate it without any explanation."*
-
 ---
 ---
 
