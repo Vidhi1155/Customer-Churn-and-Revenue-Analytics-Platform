@@ -88,9 +88,6 @@ Step 7   ML Models             K-Means segmentation + XGBoost churn classifier
          ↓
 Step 8   Power BI              3-page interactive dashboard with slicers,
          Dashboard             DAX measures, cross-filtering
-         ↓
-Step 9   Presentation          6-slide consulting deck:
-                               Situation → Complication → Recommendation
 ```
 
 ---
