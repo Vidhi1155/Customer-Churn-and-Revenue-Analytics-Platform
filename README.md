@@ -181,7 +181,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 1: Monthly Revenue Trend + 3-Month Rolling Average**
 
-![Monthly Revenue Trend](step4_eda_plots/01_monthly_revenue_trend.png)
+![Monthly Revenue Trend](eda_plots/01_monthly_revenue_trend.png)
 
 > *Nov–Dec spikes confirm strong seasonality; rolling average reveals steady underlying growth despite monthly volatility.*
 
@@ -189,7 +189,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 2: Year-over-Year Comparison (2023 vs 2024)**
 
-![YoY Comparison](step4_eda_plots/02_yoy_comparison.png)
+![YoY Comparison](eda_plots/02_yoy_comparison.png)
 
 > *2024 consistently outperforms 2023 in mid-year months, suggesting successful retention or product expansion.*
 
@@ -197,7 +197,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 3: Revenue by Country**
 
-![Revenue by Country](step4_eda_plots/03_revenue_by_country.png)
+![Revenue by Country](eda_plots/03_revenue_by_country.png)
 
 > *UK accounts for ~82% of revenue — high geographic concentration is a business risk; Germany & France are top international markets.*
 
@@ -207,7 +207,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 4: Customer Order Frequency Distribution**
 
-![Order Frequency](step4_eda_plots/04_order_frequency.png)
+![Order Frequency](eda_plots/04_order_frequency.png)
 
 > *15.6% of customers placed only one order — reducing one-time buyers is the single biggest retention opportunity.*
 
@@ -215,7 +215,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 5: New vs Returning Customers per Month**
 
-![New vs Returning](step4_eda_plots/05_new_vs_returning.png)
+![New vs Returning](eda_plots/05_new_vs_returning.png)
 
 > *Returning customers dominate month-on-month — strong retention signal; new customer acquisition dips post-Jan suggest seasonal acquisition patterns.*
 
@@ -223,7 +223,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 6: Customer Lifetime Value Distribution**
 
-![CLV Distribution](step4_eda_plots/06_clv_distribution.png)
+![CLV Distribution](eda_plots/06_clv_distribution.png)
 
 > *CLV is right-skewed: median £1,443 vs mean £2,509 — a small number of high-value customers pull the average up significantly.*
 
@@ -233,11 +233,11 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 7: Revenue Share by Category**
 
-![Category Revenue Share](step4_eda_plots/07_category_revenue_share.png)
+![Category Revenue Share](eda_plots/07_category_revenue_share.png)
 
 **Chart 8: Top 15 Products by Revenue**
 
-![Top Products](step4_eda_plots/08_top_products.png)
+![Top Products](eda_plots/08_top_products.png)
 
 > *Top 5 products contribute disproportionately — protecting stock availability of these SKUs is critical.*
 
@@ -245,7 +245,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 9: Category Performance Heatmap by Month**
 
-![Category Heatmap](step4_eda_plots/09_category_heatmap.png)
+![Category Heatmap](eda_plots/09_category_heatmap.png)
 
 > *Home Decor and Kitchen show the strongest Nov–Dec peaks — seasonal stock planning should prioritise these two categories.*
 
@@ -255,7 +255,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 10: Cancellation Rate by Category**
 
-![Cancellation Rate](step4_eda_plots/10_cancellation_rate.png)
+![Cancellation Rate](eda_plots/10_cancellation_rate.png)
 
 > *Kitchen and Toys & Games exceed the 2% risk threshold — product descriptions or quality in these categories needs review.*
 
@@ -263,7 +263,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 11: Bulk vs Retail Revenue Split**
 
-![Bulk vs Retail](step4_eda_plots/11_bulk_vs_retail.png)
+![Bulk vs Retail](eda_plots/11_bulk_vs_retail.png)
 
 > *B2B bulk orders account for 36.3% of total revenue — losing even one bulk account represents significant revenue risk.*
 
@@ -271,7 +271,7 @@ Every cleaning decision has a **business rationale**, not just a technical fix.
 
 **Chart 12: Correlation Heatmap**
 
-![Correlation Heatmap](step4_eda_plots/12_correlation_heatmap.png)
+![Correlation Heatmap](eda_plots/12_correlation_heatmap.png)
 
 > *Revenue correlates strongly with Quantity and IsBulkOrder — unit price alone doesn't drive revenue; volume does.*
 
