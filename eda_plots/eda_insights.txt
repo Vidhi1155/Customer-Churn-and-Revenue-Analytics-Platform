@@ -1,0 +1,37 @@
+============================================================
+  EDA BUSINESS INSIGHTS SUMMARY
+  E-Commerce Analytics Project | Vidhi Gupta
+============================================================
+
+CHAPTER 1 — BUSINESS PERFORMANCE
+----------------------------------------
+Chart 01: Nov–Dec spikes confirm strong seasonality; rolling average reveals steady underlying growth despite monthly volatility.
+
+Chart 02: 2024 consistently outperforms 2023 in mid-year months, suggesting successful retention or product expansion.
+
+Chart 03: UK accounts for ~82% of revenue — high geographic concentration is a business risk; Germany & France are top international markets.
+
+CHAPTER 2 — CUSTOMER ANALYSIS
+----------------------------------------
+Chart 04: 15.6% of customers placed only one order — reducing one-time buyers is the single biggest retention opportunity.
+
+Chart 05: Returning customers dominate month-on-month — strong retention signal; new customer acquisition dips post-Jan suggest seasonal acquisition patterns.
+
+Chart 06: CLV is right-skewed: median £1,443 vs mean £2,509 — a small number of high-value customers pull the average up significantly.
+
+CHAPTER 3 — PRODUCT & CATEGORY
+----------------------------------------
+Chart 07: Toys & Games is the top revenue category at 18.9% — drives merchandising and inventory prioritization decisions.
+
+Chart 08: Top 5 products (blue) contribute disproportionately — protecting stock availability of these SKUs is critical.
+
+Chart 09: Home Decor and Kitchen show the strongest Nov–Dec peaks — seasonal stock planning should prioritise these two categories.
+
+CHAPTER 4 — RISK ANALYSIS
+----------------------------------------
+Chart 10: Kitchen and Toys & Games exceed the 2% risk threshold (red) — product descriptions or quality in these categories needs review.
+
+Chart 11: B2B bulk orders account for 36.3% of total revenue — losing even one bulk account represents significant revenue risk.
+
+Chart 12: Revenue correlates strongly with Quantity and IsBulkOrder — unit price alone doesn't drive revenue; volume does.
+

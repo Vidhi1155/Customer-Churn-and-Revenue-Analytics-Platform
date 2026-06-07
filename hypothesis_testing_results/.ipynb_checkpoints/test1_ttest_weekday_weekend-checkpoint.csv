@@ -1,0 +1,2 @@
+Test,H0,Group_A,Mean_A,n_A,Group_B,Mean_B,n_B,t_statistic,p_value,CI_lower,CI_upper,Cohens_d,Significant,Conclusion
+Independent t-Test,Weekday mean = Weekend mean,Weekday,471.79,19230,Weekend,474.78,7754,-0.4121,0.6803,-9.429,3.4471,-0.0055,False,FAIL TO REJECT H₀ — No significant difference in weekday vs weekend order value.

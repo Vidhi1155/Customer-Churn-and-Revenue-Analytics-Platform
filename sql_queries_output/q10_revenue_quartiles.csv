@@ -1,0 +1,5 @@
+RevenueQuartile,QuartileLabel,NumCustomers,MinRevenue,MaxRevenue,AvgRevenue,TotalSegmentRevenue,RevenueShare_Pct
+1,Q1 — Top 25% (Premium),1172,2789.46,136421.96,6667.67,7814511.02,66.48
+2,Q2 — Upper Mid (Growth),1171,1442.76,2786.70,2041.77,2390913.56,20.34
+3,Q3 — Lower Mid (Nurture),1171,639.56,1442.35,1013.23,1186491.27,10.09
+4,Q4 — Bottom 25% (At Risk),1171,2.55,639.47,309.67,362621.01,3.08

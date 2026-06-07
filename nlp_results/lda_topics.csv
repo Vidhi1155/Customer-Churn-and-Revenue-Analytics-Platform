@@ -1,0 +1,61 @@
+Topic,TopicLabel,Rank,Word,Weight
+1,Delivery & Packaging,1,good,3761.29
+1,Delivery & Packaging,2,arrived,2799.26
+1,Delivery & Packaging,3,quality,2798.19
+1,Delivery & Packaging,4,good quality,2796.31
+1,Delivery & Packaging,5,price,2795.72
+1,Delivery & Packaging,6,quality price,2795.28
+1,Delivery & Packaging,7,arrived time,2795.28
+1,Delivery & Packaging,8,time,2795.28
+1,Delivery & Packaging,9,great,2753.81
+1,Delivery & Packaging,10,perfect,2753.32
+1,Delivery & Packaging,11,one,2753.2
+1,Delivery & Packaging,12,look,2752.7
+2,Delivery & Packaging,1,product,6201.89
+2,Delivery & Packaging,2,quality,4652.43
+2,Delivery & Packaging,3,item,3555.46
+2,Delivery & Packaging,4,gift,3554.94
+2,Delivery & Packaging,5,thrilled really,3554.23
+2,Delivery & Packaging,6,bought gift,3554.23
+2,Delivery & Packaging,7,bought,3554.23
+2,Delivery & Packaging,8,thrilled,3554.23
+2,Delivery & Packaging,9,gift thrilled,3554.23
+2,Delivery & Packaging,10,really,3553.52
+2,Delivery & Packaging,11,arrived,3546.73
+2,Delivery & Packaging,12,quality arrived,3543.75
+3,Size & Description Accuracy,1,product,6828.56
+3,Size & Description Accuracy,2,expected,3600.48
+3,Size & Description Accuracy,3,nice,3593.53
+3,Size & Description Accuracy,4,nice product,3171.31
+3,Size & Description Accuracy,5,really,2719.88
+3,Size & Description Accuracy,6,overall,2719.16
+3,Size & Description Accuracy,7,overall slightly,2719.16
+3,Size & Description Accuracy,8,product overall,2719.16
+3,Size & Description Accuracy,9,really nice,2719.16
+3,Size & Description Accuracy,10,smaller expected,2719.16
+3,Size & Description Accuracy,11,smaller,2719.16
+3,Size & Description Accuracy,12,slightly smaller,2719.16
+4,Price & Value for Money,1,quality,4896.58
+4,Price & Value for Money,2,exactly,3466.79
+4,Price & Value for Money,3,outstanding,3464.75
+4,Price & Value for Money,4,wanted,3464.75
+4,Price & Value for Money,5,outstanding product,3464.75
+4,Price & Value for Money,6,finish,3464.75
+4,Price & Value for Money,7,finish exactly,3464.75
+4,Price & Value for Money,8,exactly wanted,3464.75
+4,Price & Value for Money,9,product,3461.87
+4,Price & Value for Money,10,item,3366.13
+4,Price & Value for Money,11,nice,3210.69
+4,Price & Value for Money,12,good,3209.6
+5,Delivery & Packaging,1,beautifully packaged,3571.76
+5,Delivery & Packaging,2,definitely order,3571.76
+5,Delivery & Packaging,3,perfect gift,3571.76
+5,Delivery & Packaging,4,definitely,3571.76
+5,Delivery & Packaging,5,order,3571.76
+5,Delivery & Packaging,6,beautifully,3571.76
+5,Delivery & Packaging,7,gift beautifully,3571.76
+5,Delivery & Packaging,8,packaged,3571.76
+5,Delivery & Packaging,9,packaged definitely,3571.76
+5,Delivery & Packaging,10,gift,3571.05
+5,Delivery & Packaging,11,perfect,3570.18
+5,Delivery & Packaging,12,delivery,3512.13

@@ -1,0 +1,8 @@
+Category,SalesOrders,SalesRevenue,CancelOrders,CancelledValue,CancelRate_Pct,RiskFlag,CancelRank
+Kitchen,9660,3072086.11,293,33347.88,3.03,High Risk,1
+Home Decor,12367,3073417.33,374,46778.69,3.02,High Risk,2
+Toys & Games,10144,3796087.53,301,58812.30,2.97,High Risk,3
+Gifts & Cards,9661,1955039.98,283,18050.10,2.93,High Risk,4
+Stationery,8730,1223283.96,227,24546.43,2.60,High Risk,5
+Clothing,6955,3704711.29,174,61182.52,2.50,High Risk,6
+Garden,6924,3211092.28,169,71658.70,2.44,High Risk,7

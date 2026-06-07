@@ -1,0 +1,2 @@
+Test,H0,Q3_n,Q3_mean,Q4_n,Q4_mean,Lift_GBP,Lift_Pct,t_statistic,p_value,CI_lower,CI_upper,Cohens_d,Significant,Conclusion
+A/B Test (One-tailed t-Test),Q3 mean daily revenue = Q4 mean daily revenue,184,18177.73,184,51218.05,33040.32,181.76,16.7057,0.0,30462.16,35618.48,1.7417,True,REJECT H₀ — Q4 daily revenue is significantly higher than Q3.

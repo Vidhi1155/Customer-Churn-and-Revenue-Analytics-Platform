@@ -1,0 +1,22 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Clothing,Garden,-31.8343,0.0,-37.7525,-25.9161,True
+Clothing,Gifts & Cards,-191.5802,0.0,-196.934,-186.2265,True
+Clothing,Home Decor,-178.6557,0.0,-183.675,-173.6364,True
+Clothing,Kitchen,-129.5517,0.0,-134.9086,-124.1949,True
+Clothing,Stationery,-211.166,0.0,-216.691,-205.641,True
+Clothing,Toys & Games,-102.6929,0.0,-107.9897,-97.3961,True
+Garden,Gifts & Cards,-159.7459,0.0,-165.1167,-154.3752,True
+Garden,Home Decor,-146.8214,0.0,-151.8588,-141.784,True
+Garden,Kitchen,-97.7174,0.0,-103.0912,-92.3437,True
+Garden,Stationery,-179.3317,0.0,-184.8731,-173.7902,True
+Garden,Toys & Games,-70.8586,0.0,-76.1725,-65.5446,True
+Gifts & Cards,Home Decor,12.9245,0.0,8.5642,17.2849,True
+Gifts & Cards,Kitchen,62.0285,0.0,57.2835,66.7735,True
+Gifts & Cards,Stationery,-19.5857,0.0,-24.5198,-14.6516,True
+Gifts & Cards,Toys & Games,88.8874,0.0,84.2102,93.5645,True
+Home Decor,Kitchen,49.104,0.0,44.7399,53.4681,True
+Home Decor,Stationery,-32.5102,0.0,-37.0793,-27.9412,True
+Home Decor,Toys & Games,75.9628,0.0,71.6726,80.2531,True
+Kitchen,Stationery,-81.6142,0.0,-86.5516,-76.6768,True
+Kitchen,Toys & Games,26.8588,0.0,22.1782,31.5395,True
+Stationery,Toys & Games,108.4731,0.0,103.6009,113.3453,True

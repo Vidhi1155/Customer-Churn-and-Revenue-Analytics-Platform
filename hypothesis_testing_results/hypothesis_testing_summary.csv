@@ -1,0 +1,7 @@
+Test,p_value,Significant,Effect_Size,Conclusion
+T-Test: Weekday vs Weekend,0.6803,False,Cohen's d = -0.0055,FAIL TO REJECT H₀ — No significant difference in weekday vs weekend order value.
+One-Way ANOVA: Revenue by Category,0.0,True,Eta² = 0.2144,REJECT H₀ — Revenue differs significantly across categories.
+Mann-Whitney U: UK vs Intl Frequency,0.6051,False,Rank-biserial r = 0.0058,FAIL TO REJECT H₀ — No significant difference in order frequency.
+A/B Test: Q3 vs Q4 Daily Revenue,0.0,True,Cohen's d = 1.7417,REJECT H₀ — Q4 daily revenue is significantly higher than Q3.
+Chi-Square: Category vs Bulk,0.7677,False,Cramér's V = 0.0061,FAIL TO REJECT H₀ — No significant association between category and bulk orders.
+Correlation: Price vs Quantity,0.9298,False,"Pearson r = -0.0009, Spearman ρ = 0.0013",FAIL TO REJECT H₀ — No significant correlation between price and quantity.

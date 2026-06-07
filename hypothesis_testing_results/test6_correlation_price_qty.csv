@@ -1,0 +1,2 @@
+Test,H0,n,Pearson_r,Pearson_p,Spearman_rho,Spearman_p,Significant,Conclusion
+Pearson + Spearman Correlation,No correlation between UnitPrice and Quantity,10000,-0.0009,0.9298,0.0013,0.9001,False,FAIL TO REJECT H₀ — No significant correlation between price and quantity.

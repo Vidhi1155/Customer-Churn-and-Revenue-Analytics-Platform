@@ -1,0 +1,2 @@
+Test,H0,UK_n,UK_median,Intl_n,Intl_median,U_statistic,p_value,Rank_biserial_r,Significant,Conclusion
+Mann-Whitney U,UK freq = International freq,3846,3.0,839,3.0,1604032.0,0.6051,0.0058,False,FAIL TO REJECT H₀ — No significant difference in order frequency.

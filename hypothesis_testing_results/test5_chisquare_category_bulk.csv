@@ -1,0 +1,8 @@
+Category,Non-Bulk,Bulk,BulkRate_Pct,Chi2,p_value,CramersV,Significant
+Clothing,8428,309,3.54,3.3205,0.7677,0.0061,False
+Garden,8341,285,3.3,3.3205,0.7677,0.0061,False
+Gifts & Cards,13062,479,3.54,3.3205,0.7677,0.0061,False
+Home Decor,18893,659,3.37,3.3205,0.7677,0.0061,False
+Kitchen,13024,436,3.24,3.3205,0.7677,0.0061,False
+Stationery,11205,412,3.55,3.3205,0.7677,0.0061,False
+Toys & Games,13807,487,3.41,3.3205,0.7677,0.0061,False

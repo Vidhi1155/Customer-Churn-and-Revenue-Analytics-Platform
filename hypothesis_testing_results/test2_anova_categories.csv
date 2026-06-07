@@ -1,0 +1,8 @@
+Category,Mean_Revenue,Std_Dev,Count,F_statistic,p_value,Eta_squared,Significant
+Clothing,280.87,229.58,8428,3945.8288,0.0,0.2144,True
+Garden,249.04,196.79,8341,3945.8288,0.0,0.2144,True
+Gifts & Cards,89.29,70.14,13062,3945.8288,0.0,0.2144,True
+Home Decor,102.22,82.13,18893,3945.8288,0.0,0.2144,True
+Kitchen,151.32,134.25,13024,3945.8288,0.0,0.2144,True
+Stationery,69.71,47.89,11205,3945.8288,0.0,0.2144,True
+Toys & Games,178.18,133.5,13807,3945.8288,0.0,0.2144,True
