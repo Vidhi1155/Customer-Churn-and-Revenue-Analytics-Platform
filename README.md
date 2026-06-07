@@ -503,6 +503,3 @@ Then create the database once in MySQL Workbench:
 CREATE DATABASE ecommerce_analytics;
 ```
 ---
----
-
-*Targeting: ZS Associates · Mu Sigma · Fractal Analytics · EXL · McKinsey Analytics*
